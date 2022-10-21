@@ -1,0 +1,16 @@
+{
+"name": "123twc",
+"theme": "123twc",
+"version": "10.3.1",
+"description": "123twc สมัครเว็บคาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ ให้เงินเครดิตฟรี",
+"keywords": [
+"123twc",
+"123twc เครดิตฟรี",
+"123twc ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/123twc",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
